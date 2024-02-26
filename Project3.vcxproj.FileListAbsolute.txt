@@ -1,0 +1,5 @@
+C:\Users\adamriley1_snhu\source\repos\Project3\Debug\Project3.exe
+C:\Users\adamriley1_snhu\source\repos\Project3\Debug\Project3.pdb
+\\apporto.com\dfs\SNHU\USERS\adamriley1_snhu\Desktop\Project3\Debug\Project3.exe
+\\apporto.com\dfs\SNHU\USERS\adamriley1_snhu\Desktop\Project3\Debug\Project3.pdb
+\\apporto.com\dfs\SNHU\USERS\adamriley1_snhu\Desktop\Project3.pdb
